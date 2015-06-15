@@ -6,6 +6,6 @@ touch "" - creates new file
 git add - stages
 git status - shows current state
 git commit -m "" - final stage
-git push origin master - reconcile to github
+git push [remote] [branch] - reconcile to github
 git checkout -b [branch] - creates and switches to branch
 subl . - uses sublime to open current directory
